@@ -61,7 +61,7 @@ export default function AddCategory() {
             <div className="relative h-screen bg-white shadow-md rounded-md p-8 w-full max-w-6xl">
                 <div className="flex items-center mb-6">
                     <FaArrowLeft onClick={handleBack} className="text-gray-600 cursor-pointer" />
-                    <h1 className="text-2xl font-bold ml-4">Add Category</h1>
+                    <h1 className="text-2xl font-bold ml-4">Add Sub Category</h1>
                 </div>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
                     <div>
