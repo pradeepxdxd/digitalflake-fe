@@ -70,7 +70,7 @@ export default function EditCategory() {
       status,
       c_id: category.c_id
     }));
-    toast.success('Product updated successfully');
+    toast.success('Sub Category updated successfully');
   }
 
   const handleCancel = () => {

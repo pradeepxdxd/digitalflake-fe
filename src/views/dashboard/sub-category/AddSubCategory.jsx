@@ -46,6 +46,7 @@ export default function AddCategory() {
             setCategoryName('')
             setImage(null)
             setCategory('')
+            toast.success('Sub Category added successfully')
         }
     }
 
